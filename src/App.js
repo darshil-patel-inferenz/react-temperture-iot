@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <div>
         {" "}
-        <h1>Real Time Data</h1>
         <TableData />
       </div>
     </div>
